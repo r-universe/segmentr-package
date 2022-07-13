@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "segmentr",
+    "oncran": true
+  }
+]
